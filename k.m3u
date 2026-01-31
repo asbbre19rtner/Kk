@@ -1,17 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="Kurdish",Channel 8 Kurmanci TV
+
+#EXTINF:-1,Channel 8 Kurmanci TV
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
-#EXTINF:-1 group-title="Kurdish",Kurdistan 24 TV
+
+#EXTINF:-1,Kürdistan 24 TV
 https://svs.itworkscdn.net/kurdistan24live/kurdistan24live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish",Kurdmax Music TV
+
+#EXTINF:-1,Kurdmax Music TV
 https://kurdsat.akamaized.net/hls/kurdmaxmusic.m3u8
-#EXTINF:-1 group-title="Kurdish",Kurdsat News
+
+#EXTINF:-1,Kurdsat News
 https://kurdsat-news.akamaized.net/hls/kurdsat-news.m3u8
-#EXTINF:-1 group-title="Kurdish",Rudaw TV
+
+#EXTINF:-1,Rudaw TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish",Waar TV
+
+#EXTINF:-1,Waar TV
 https://ca-rt.onetv.app/Waar/index-0.m3u8
-#EXTINF:-1 group-title="Kurdish",Rojava TV
+
+#EXTINF:-1,Rojava TV
 https://rojavatv.net/live/stream.m3u8
-#EXTINF:-1 group-title="Kurdish",Welat TV
+
+#EXTINF:-1,Welat TV
 https://welattv.net/live/stream.m3u8
